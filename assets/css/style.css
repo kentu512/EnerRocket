@@ -1,0 +1,32 @@
+.custom-nav {
+  background-color: black;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.text-align-right {
+  text-align: right;
+}
+
+.text-align-left {
+  text-align: left;
+}
+
+.bottom-200 {
+  position: relative;
+  bottom: -200px;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.grey {
+  color: grey;
+}
